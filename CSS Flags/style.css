@@ -83,5 +83,34 @@
     left: 126px;
 }
 
+#tongaR {
+    background-color: rgb(190, 22, 22);
+    height: 300px;
+    width: 550px;
+    display: inline-block;
+}
+#tongaW {
+    position: absolute;
+    background-color: white;
+    height: 150px;
+    width: 240px;
+    top: 1609px
+}
+#tongaRH {
+    position: absolute;
+    background-color: rgb(190, 22, 22);
+    height: 46px;
+    width: 100px;
+    top: 1660px;
+    left: 75px;
+}
+#tongaRW {
+    position: absolute;
+    background-color: rgb(190, 22, 22);
+    height: 100px;
+    width: 43px;
+    top: 1635px;
+    left: 103px;
+}
 
 
